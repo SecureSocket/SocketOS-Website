@@ -189,7 +189,7 @@ if(isset($_SESSION['user_email_address']))
 		<footer id="footer">
 			<section class="pr-4">
 				<h2>Secure Socket Group</h2>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit cupiditate totam esse nostrum, perspiciatis laborum, officia voluptas maxime vel qui modi quaerat laudantium impedit adipisci nam minima aspernatur tempore sequi?</p>
+				<p>Socket OS is made to stay out of the way as it helps you get things done super easily. But under its light and easy to use interface, it's a powerhouse in terms of performance. So you're free to choose ways of usage right as you need them and when you need them. Socket OS has everything you need for your daily and professional work.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/SecureSocket/SocketOS" class="button">Contribute Now</a></li>
 				</ul>
