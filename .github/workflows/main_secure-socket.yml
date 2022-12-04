@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'secure-socket'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D500D5298F54CE88ED8502125F25871 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_83992DC493424E4D9131A790DDF57089 }}
           package: .
