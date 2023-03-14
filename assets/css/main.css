@@ -12,12 +12,12 @@
 
 html {
 	box-sizing: border-box;
+	scroll-behavior: smooth !important;
 }
 
 body {
 	background-color: #020024 !important;
 	color: rgba(255, 255, 255, 0.65);
-	scroll-behavior: smooth;
 }
 
 body {

@@ -5,13 +5,13 @@ require_once 'vendor/autoload.php';
 $google_client = new Google_Client();
 
 //Set the OAuth 2.0 Client ID
-$google_client->setClientId('800569414412-0b1ubuj79qkqlaph2isj3nqqf267fnb3.apps.googleusercontent.com');
+$google_client->setClientId('645181427842-k0hpngr4ehsh83oc5mjlfivobktn0ktk.apps.googleusercontent.com');
 
 //Set the OAuth 2.0 Client Secret key
-$google_client->setClientSecret('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');
+$google_client->setClientSecret('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');
 
 //Set the OAuth 2.0 Redirect URI
-$google_client->setRedirectUri('http://localhost/socketos/index.php');
+$google_client->setRedirectUri('http://localhost/socketos/download.php');
 $google_client->addScope('email');
 $google_client->addScope('profile');
 
