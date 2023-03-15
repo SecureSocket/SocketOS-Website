@@ -11,7 +11,7 @@ $google_client->setClientId('645181427842-k0hpngr4ehsh83oc5mjlfivobktn0ktk.apps.
 $google_client->setClientSecret('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');
 
 //Set the OAuth 2.0 Redirect URI
-$google_client->setRedirectUri('http://localhost/socketos/download.php');
+$google_client->setRedirectUri('http://localhost/socketos/index.php');
 $google_client->addScope('email');
 $google_client->addScope('profile');
 
