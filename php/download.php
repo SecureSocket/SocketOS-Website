@@ -62,7 +62,7 @@
 						<span class="icon solid major style1 fa-download"></span>
 						<h3>Debian Based</h3>
 						<p>SocketOS based on Debian Linux.</p>
-						<a href="https://sourceforge.net/projects/archcraft/files/latest/download" target="_blank" class="button">Download</a>
+						<a href="https://drive.google.com/u/1/uc?id=19go4jSQPvHh8Fgo_8zIJHyz3XB8oec93&export=download" target="_blank" class="button">Download</a>
 					</li>
 					<li>
 						<span class="icon solid major style5 fa-download"></span>
