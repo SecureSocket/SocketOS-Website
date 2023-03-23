@@ -527,14 +527,14 @@ section.special .major h2:after {
 	display: flex;
 }
 
-.form-button a {
+.form-button .button {
 	background-color: transparent;
     box-shadow: inset 0 0 0 1px rgb(255 255 255 / 35%) !important;
     color: #ffffff !important;
 }
 
 @media screen and (max-width: 480px){
-	.form-button a {
+	.form-button .button {
 		width: 100%;
 		margin: 0 0 2em 0;
 	}
