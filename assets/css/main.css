@@ -523,10 +523,6 @@ section.special .major h2:after {
 	border: 0;
 }
 
-.form-button {
-	display: flex;
-}
-
 .form-button .button {
 	background-color: transparent;
     box-shadow: inset 0 0 0 1px rgb(255 255 255 / 35%) !important;
